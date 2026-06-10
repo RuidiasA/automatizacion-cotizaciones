@@ -29,18 +29,15 @@ def calcular_interpolacion(cantidad, margenes_dict):
 # PRUEBA DE CONTROL (Tus datos de Chaleco)
 # ==========================================
 margenes_chaleco = {
-    "25": 78.0,
-      "50": 75.0,
-      "100": 54.0,
-      "250": 52.0,
-      "500": 48.0,
-      "1000": 43.0,
-      "2000": 41.0,
-      "3000": 37.0,
-      "5000": 33.0
+     "10": 72.0,
+      "25": 52.0,
+      "50": 46.0,
+      "100": 37.0, #26% para 160 unidades aprox
+      "500": 32.5,
+      "1000": 25.5
 }
 
-cantidad_test = 70
+cantidad_test = 160
 resultado = calcular_interpolacion(cantidad_test, margenes_chaleco)
 
 print(f"--- Verificación de Algoritmo ---")

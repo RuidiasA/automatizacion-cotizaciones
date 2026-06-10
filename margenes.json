@@ -1,0 +1,241 @@
+{
+  "GORRO_DRILL": {
+    "nombre_comercial": "Gorro Drill",
+    "filtros_prenda": ["gorro", "gorros", "gorra"],
+    "filtros_material": ["drill", "dril"],
+    "margenes": {
+      "25": 78.0,
+      "50": 70.0,
+      "100": 62.0,
+      "250": 54.0,
+      "500": 50.0,
+      "1000": 43.0,
+      "2000": 41.0,
+      "3000": 37.0,
+      "5000": 33.0
+    }
+  },
+  "GORRO_TASLAN": {
+    "nombre_comercial": "Gorro Taslan",
+    "filtros_prenda": ["gorro", "gorros", "gorra"],
+    "filtros_material": ["taslan", "taslam", "tazlan", "tazlam"],
+    "margenes": {
+      "25": 105.0,
+      "50": 90.0,
+      "100": 70.5,
+      "250": 57.0,
+      "500": 44.5,
+      "1000": 39.5,
+      "2000": 35.0,
+      "3000": 31.0,
+      "5000": 26.5
+    }
+  },
+  "CASACA_NYLON": {
+    "nombre_comercial": "Casaca Nylon",
+    "filtros_prenda": ["casaca", "casacas", "chamarra"],
+    "filtros_material": ["nylon", "nailon", "nailom", "nylom"],
+    "margenes": {
+      "10": 84.0,
+      "15": 75.0,
+      "20": 56.0,
+      "50": 53.5,
+      "100": 48.0,
+      "200": 44.0,
+      "500": 40.0
+    }
+  },
+  "CASACA_TASLAN": {
+    "nombre_comercial": "Casaca Taslan",
+    "filtros_prenda": ["casaca", "casacas", "chamarra"],
+    "filtros_material": ["taslan", "taslam", "tazlan", "tazlam"],
+    "margenes": {
+      "5": 86.0,
+      "25": 51.0,
+      "50": 45.0,
+      "100": 38.0,
+      "250": 31.0,
+      "500": 29.5,
+      "1000": 28.0
+    }
+  },
+  "CASACA_SOFTSHELL": {
+    "nombre_comercial": "Casaca Softshell",
+    "filtros_prenda": ["casaca", "casacas", "chamarra"],
+    "filtros_material": ["softshell", "softsel", "soft_shell", "sofsel"],
+    "margenes": {
+      "10": 56.0,
+      "50": 49.0,
+      "100": 38.5
+    }
+  },
+  "POLERA": {
+    "nombre_comercial": "Polera",
+    "filtros_prenda": ["polera", "poleras", "hoodie", "hoodies", "sudadera"],
+    "filtros_material": ["algodon", "franela", "perchado", "reactivo", "poliester"],
+    "margenes": {
+      "10": 66.5,
+      "25": 60.0,
+      "50": 57.5,
+      "100": 50.0,
+      "250": 47.0,
+      "500": 46.0, 
+      "800": 32.0,
+      "1000": 29.0
+    }
+  },
+  "CHALECO": {
+    "nombre_comercial": "Chaleco",
+    "filtros_prenda": ["chaleco", "chalecos"],
+    "filtros_material": ["drill", "taslan", "nylon", "puffer", "periodista", "institucional"],
+    "margenes": {
+      "10": 72.0,
+      "25": 52.0,
+      "50": 46.0,
+      "100": 43.5,
+      "500": 32.5,
+      "1000": 25.5
+    }
+  },
+  "CAMISA_OXFORD": {
+    "nombre_comercial": "Camisa Oxford",
+    "filtros_prenda": ["camisa", "camisas", "blusa", "blusas"],
+    "filtros_material": ["oxford", "oxfor", "oxfurd", "paracas", "san jacinto"],
+    "margenes": {
+      "5": 55.11,
+      "10": 52.0,
+      "25": 49.0,
+      "50": 46.0,
+      "100": 43.0,
+      "300": 39.0,
+      "700": 35.0,
+      "1000": 32.5
+    }
+  },
+  "CAMISA_DENIM": {
+    "nombre_comercial": "Camisa Denim",
+    "filtros_prenda": ["camisa", "camisas", "blusa", "blusas"],
+    "filtros_material": ["denim", "jean", "gamarza", "rustico"],
+    "margenes": {
+      "10": 57.25,
+      "25": 45.72,
+      "100": 36.71
+    }
+  },
+  "CAMISA_POPELINA": {
+    "nombre_comercial": "Camisa Popelina",
+    "filtros_prenda": ["camisa", "camisas", "blusa", "blusas"],
+    "filtros_material": ["popelina", "popeline", "popelin"],
+    "margenes": {
+      "30": 52.24,
+      "50": 47.0,
+      "700": 42.0,
+      "1000": 40.62
+    }
+  },
+  "POLO_20_1": {
+    "nombre_comercial": "Polo 20/1",
+    "filtros_prenda": ["polo", "polos"],
+    "filtros_material": ["20/1", "20 o 1", "jersey 20", "veinte uno"],
+    "margenes": {
+      "25": 61.5,
+      "50": 55.0,
+      "100": 49.5,
+      "250": 48.7,
+      "500": 47.0,
+      "1000": 39.0,
+      "2000": 35.0,
+      "3000": 31.0,
+      "5000": 26.0
+    }
+  },
+  "POLO_24_1": {
+    "nombre_comercial": "Polo 24/1",
+    "filtros_prenda": ["polo", "polos"],
+    "filtros_material": ["24/1", "24 o 1", "jersey 24"],
+    "margenes": {
+      "25": 60.0,
+      "50": 56.0,
+      "100": 52.0,
+      "250": 48.0,
+      "500": 44.0,
+      "1000": 41.0,
+      "2000": 38.0,
+      "3000": 36.0,
+      "5000": 33.0
+    }
+  },
+  "POLO_30_1": {
+    "nombre_comercial": "Polo 30/1",
+    "filtros_prenda": ["polo", "polos"],
+    "filtros_material": ["30/1", "30 o 1", "jersey 30"],
+    "margenes": {
+      "10": 82.0,
+      "25": 66.0,
+      "50": 48.0,
+      "100": 47.0,
+      "250": 38.5,
+      "500": 37.0,
+      "1000": 36.0,
+      "2000": 35.0,
+      "3000": 34.0,
+      "5000": 33.0  
+    }
+  },
+  "POLO_40_1": {
+    "nombre_comercial": "Polo 40/1",
+    "filtros_prenda": ["polo", "polos"],
+    "filtros_material": ["40/1", "40 o 1", "pyma", "pima"],
+    "margenes": {
+      "500": 101.1,
+      "1000": 81.9
+    }
+  },
+  "PANTALON_DENIM": {
+    "nombre_comercial": "Pantalón Denim",
+    "filtros_prenda": ["pantalon", "pantalones", "jean", "jeans"],
+    "filtros_material": ["denim", "jean", "14 onzas", "12 onzas"],
+    "margenes": {
+      "50": 38.61,
+      "150": 34.51,
+      "400": 30.88
+    }
+  },
+  "PANTALON_DRILL": {
+    "nombre_comercial": "Pantalón Drill",
+    "filtros_prenda": ["pantalon", "pantalones"],
+    "filtros_material": ["drill", "dril", "tecnologia", "san jacinto"],
+    "margenes": {
+      "5": 88.0,
+      "10": 84.0,
+      "25": 80.0,
+      "50": 78.0,
+      "100": 75.0,
+      "300": 68.0
+    }
+  },
+  "OVERALL_MAMELUCO": {
+    "nombre_comercial": "Overall / Mameluco",
+    "filtros_prenda": ["overall", "mameluco", "overol", "mamelucos", "overoles"],
+    "filtros_material": ["drill", "dril", "termico", "industrial", "seguridad"],
+    "margenes": {
+      "10": 33.05,
+      "25": 31.5,
+      "50": 28.32,
+      "100": 25.3
+    }
+  },
+  "MANDIL": {
+    "nombre_comercial": "Mandil",
+    "filtros_prenda": ["mandil", "mandiles", "delantal", "delantales"],
+    "filtros_material": ["drill", "dril", "publicitario", "poliseda", "popelina"],
+    "margenes": {
+      "10": 110.0,
+      "50": 85.0,
+      "100": 70.0,
+      "500": 60.0,
+      "1000": 52.0,
+      "2000": 45.0
+    }
+  }
+}
