@@ -40,7 +40,7 @@ margenes_chaleco = {
       "5000": 26.5
 }
 
-cantidad_test = 80
+cantidad_test = 40
 resultado = calcular_interpolacion(cantidad_test, margenes_chaleco)
 
 print(f"--- Verificación de Algoritmo ---")
