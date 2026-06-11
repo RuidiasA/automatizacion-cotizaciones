@@ -3,7 +3,7 @@
     "nombre_comercial": "Gorro Drill",
     "filtros_prenda": ["gorro", "gorros", "gorra"],
     "filtros_material": ["drill", "dril"],
-    "margenes": {
+    "margenes": {   
       "25": 78.0,
       "50": 70.0,
       "100": 62.0,

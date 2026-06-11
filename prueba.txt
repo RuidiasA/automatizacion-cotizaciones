@@ -1,3 +1,38 @@
 mochila importada
 mochila fabricación nacional
 movhila promocional
+libreta
+lapicero ecologico
+lapicero bambu
+tomatodo
+taza
+llavero
+
+
+"Mochila": {
+    "nombre_comercial": "Mochila viajera",
+    "filtros_prenda": ["mochila", "mochilas"],
+    "filtros_material": ["drill", "dril", "nylon", "puffer"],
+    "margenes": {
+      "10": 72.0,
+      "25": 52.0,
+      "50": 46.0,
+      "100": 37.0, 
+      "500": 32.5,
+      "1000": 25.5
+    }
+  },
+  "Lapicero": {
+    "nombre_comercial": "Lapicero ejecutivo",
+    "filtros_prenda": ["lapicero", "lapiceros"],
+    "filtros_material": ["cuero", "ecocuero", "sintético"],
+    "margenes": {
+      "10": 86.0,
+      "25": 51.0,
+      "50": 45.0,
+      "100": 38.0,
+      "250": 31.0,
+      "500": 29.5,
+      "1000": 28.0
+    }
+  }
